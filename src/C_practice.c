@@ -48,6 +48,7 @@ int main(void) {
 	scanf("%d %d", &p, &n);*/
 	/*************************************************/
 	//while loop is edited here
+	// second change
 	//while loops
 	/*while(p<10){
 		p+=1;
